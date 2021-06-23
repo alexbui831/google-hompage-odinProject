@@ -21,6 +21,7 @@
     display: flex;
     justify-content: center;
     margin: auto;
+    width: 600px;
     position: relative;
 
 
@@ -34,19 +35,22 @@
     padding-left: 2rem;
     font-size: 16px;
     outline: none;
+    position: relative;
+    
 }
 #search-textbar:hover {
     border-color:rgba(235, 221, 221, 1.0);
 }
 #search-bar-container img {
 
-    margin-top:2px;
+    margin-top:3px;
     height: 30px;
     width: 30px;
     line-height: 55px;
-    position: absolute;
-    left: 238px;
+    position: relative;
+    transform: translateX(35px);
     width: 2rem;
+    z-index: 1;
 }
 #button-container {
     text-align: center;
