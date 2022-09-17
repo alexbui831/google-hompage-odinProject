@@ -1,3 +1,6 @@
+![scuffed google homepage](https://user-images.githubusercontent.com/61631923/190845125-919ae676-871b-40ab-aeb2-e3f025440d56.png)
+
+
 ALEXANDER BUI
 JUNE 19 2021 -- Project Beginning.
 Overview of project::
